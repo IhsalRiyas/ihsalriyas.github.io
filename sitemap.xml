@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/</loc>
+    <loc>https://ihsalriyas.github.io/</loc>
     <lastmod>2023-09-18T06:11:18+12:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/blog/</loc>
+    <loc>https://ihsalriyas.github.io/post/blog/</loc>
     <lastmod>2023-09-18T06:11:18+12:00</lastmod>
   </url><url>
-    <loc>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/</loc>
+    <loc>https://ihsalriyas.github.io/post/</loc>
     <lastmod>2023-09-18T06:11:18+12:00</lastmod>
   </url><url>
-    <loc>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/categories/</loc>
+    <loc>https://ihsalriyas.github.io/categories/</loc>
   </url><url>
-    <loc>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/tags/</loc>
+    <loc>https://ihsalriyas.github.io/tags/</loc>
   </url>
 </urlset>

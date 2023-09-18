@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on the site i made cause amfoss</title>
-    <link>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/</link>
+    <link>https://ihsalriyas.github.io/post/</link>
     <description>Recent content in Posts on the site i made cause amfoss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Sep 2023 06:11:18 +1200</lastBuildDate><atom:link href="https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Sep 2023 06:11:18 +1200</lastBuildDate><atom:link href="https://ihsalriyas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/blog/</link>
+      <link>https://ihsalriyas.github.io/post/blog/</link>
       <pubDate>Mon, 18 Sep 2023 06:11:18 +1200</pubDate>
       
-      <guid>https://github.com/IhsalRiyas/HugoFinalS.github.io.git/post/blog/</guid>
+      <guid>https://ihsalriyas.github.io/post/blog/</guid>
       <description></description>
     </item>
     
